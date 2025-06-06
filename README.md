@@ -40,8 +40,3 @@ Para que o sistema funcione corretamente, você precisa das seguintes classes:
 - `Menu.java` → classe principal com o menu interativo.
 - `Aluno.java` → classe modelo representando o aluno.
 - `AlunoArquivo.java` → classe utilitária para salvar e carregar os dados de/para `alunos.txt`.
-
-### Exemplo de `Aluno.java`:
-```java
-public class Aluno {
-    pri
