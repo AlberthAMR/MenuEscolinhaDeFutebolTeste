@@ -14,7 +14,7 @@ Este é um sistema simples de cadastro de alunos desenvolvido em Java. Ele permi
 ## ✅ Funcionalidades
 
 1. **Criar novo registro de aluno:**  
-   O usuário informa os dados de um aluno (nome, data de nascimento, posição, telefone, CPF e e-mail), que são salvos em memória e no arquivo `alunos.txt`.
+   O usuário informa os dados de um aluno (nome, data de nascimento, posição, telefone, CPF, e-mail e responsável), que são salvos em memória e no arquivo `alunos.txt`.
 
 2. **Listar alunos cadastrados:**  
    Mostra todos os alunos registrados.
@@ -35,7 +35,7 @@ Este é um sistema simples de cadastro de alunos desenvolvido em Java. Ele permi
 
 ## 📂 Estrutura Esperada
 
-Para que o sistema funcione corretamente, você precisa das seguintes classes:
+Para que o sistema funcione corretamente, usa-se das seguintes classes:
 
 - `Menu.java` → classe principal com o menu interativo.
 - `Aluno.java` → classe modelo representando o aluno.
